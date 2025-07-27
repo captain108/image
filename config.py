@@ -1,5 +1,5 @@
 # config.py
 
-API_ID = 123456             # Replace with your actual API ID
-API_HASH = "your_api_hash_here"
-BOT_TOKEN = "your_bot_token_here"
+API_ID = 21845583             # Replace with your actual API ID
+API_HASH = "081a3cc51a428ad292be0be4d4f4f975"
+BOT_TOKEN = "7383316699:AAHT3py25JTWZKTTmaADZH-NVSBLUN23ssk"
